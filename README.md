@@ -1,3 +1,4 @@
+# DATE:
 ## EXPERIMENT:03  Implement an application that uses Intent(Implicit) using Android Studio.
 Design an Android application with a text field and an "Open in Browser" button. On pressing the button, the app should fetch the URL from the text field and open it in a browser using an Implicit Intent.
 
@@ -6,7 +7,7 @@ Design an Android application with a text field and an "Open in Browser" button.
 To design an Android application with a TextField and a button labeled "Open in Browser." Upon pressing the button, the application should retrieve the URL entered in the TextField and open it in the device's web browser using an implicit intent.
 ## EQUIPMENTS REQUIRED:
 
-Latest Version Android Studio
+za Latest Version Android Studio
 
 ## ALGORITHM:
 Step 1: Open Android Stdio and then click on File -> New -> New project.
@@ -28,12 +29,12 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Implicitintent”.
-Developed by: KUMUDHINI T
-Registeration Number : 212222040084
+Developed by:Yazhini G
+Registeration Number :212222220060
 */
-
 ```
-# MainActivity.java:
+
+### MainActivity.java:
 ```
 package com.example.Exp_3;
 
@@ -67,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-# activitymain.xml:
+### activitymain.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
@@ -94,14 +95,9 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 ## OUTPUT
-![31](https://github.com/user-attachments/assets/30af5c57-9abf-4b97-bbc1-7e6a279d457e)
-
-  ![32](https://github.com/user-attachments/assets/954baa78-1970-4284-97be-b503bb265c60)
-  
-![33](https://github.com/user-attachments/assets/c34cb802-7073-4394-8d0d-6d21b2d41cdb)
-
-
-
+<img src="https://github.com/user-attachments/assets/84635f26-792d-4fdb-ad5b-a8b68d16cdaa" width=200>
+<img src="https://github.com/user-attachments/assets/41f40603-acd4-40f1-9d18-6be785615aee" width=200>
+<img src="https://github.com/user-attachments/assets/f45163df-0fde-4553-b560-1efa15dab6b6" width=200>
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the web page using Android Studio was developed and executed successfully.
